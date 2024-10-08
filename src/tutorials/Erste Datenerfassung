@@ -1,0 +1,73 @@
+# Erste Datenerfassung
+
+[[toc]]
+
+In diesem Tutorial lernen Sie Folgendes:
+•	Auf dem Mobilgerät den Standort auf Hintergrundkarten ansehen
+•	Erfassen von Felddaten mit Standorten, Fotos und Notizen
+•	Abfragen und Bearbeiten von Felddaten
+
+## INSTALLIEREN DER MERGIN MAPS-APP
+[Laden Sie <MobileAppName />](../../setup/install-mobile-app/) auf Ihr Android-Gerät, iPhone oder iPad herunter. Sie finden es im App Store Ihrer Plattform:
+
+<AppDownload></AppDownload>
+
+## ERSTELLEN EINES PROJEKTS IN DER MERGIN MAPS-APP
+Daten werden in Mergin Maps in Projekten gespeichert. Wir erstellen nun ein neues Projekt, um unsere Daten zu speichern.
+
+Die Nutzung von <MobileAppName /> ist der schnellste und einfachste Weg, neue Projekte zu erstellen. Alternative Methoden mit mehr Flexibilität, werden in späteren Tutorials vorgestellt.
+
+1. Öffnen Sie <MobileAppName /> auf Ihrem Mobilgerät.
+2. Tippen Sie auf die Schaltfläche **Projekt erstellen** auf der Registerkarte **Startseite**.
+   ![Mergin Maps mobile app Home tab Create project](./merginmaps-mobile-home-tab-of-projects-screen.jpg "Mergin Maps mobile app Create project")
+ 
+3. Geben Sie den **Namen** Ihres Projekts ein und tippen Sie auf **Projekt erstellen**. Möglicherweise müssen Sie die Bildschirmtastatur minimieren, um diese Schaltfläche zu sehen.
+   ![Create project in Mergin Maps mobile app](./merginmaps-mobile-create-new-project.jpg "Create project button in Mergin Maps mobile app")
+   
+Ihr neues Projekt sollte jetzt in der Registerkarte **Projekte** der **Startseite** sichtbar sein. Es kann geöffnet werden, indem Sie auf den Namen des Projekts tippen.
+![Created project listed in the home tab](./merginmaps-mobile-new-project-listed.jpg "Created project listed in the home tab")
+
+
+## ERFASSEN VON FELDDATEN
+Im vorhergegangenen Abschnitt haben wir ein Projekt erstellt, dass wir nun nutzen werden. Üben wir nun das Erfassen einiger Felddaten.
+
+Beachten Sie, dass **für die in diesem Projekt verwendete Hintergrundkarte eine Netzwerkverbindung erforderlich** ist. Um sie im Freien darzustellen, müssen Sie mit dem Internet verbunden sein.
+
+1. •	Öffnen Sie das Projekt durch Antippen des Namens in der **Projekte** Registerkarte. 
+
+   Ihr Standort sollte auf der Hintergrundkarte angezeigt werden:
+   ![Current location shown on OpenStreetMap](./merginmaps-mobile-location-shown-on-osm.jpg "Current location shown on OpenStreetMap")
+
+2. Zoomen Sie in die Karte, um die aktuelle Positionsansicht zu vergrößern. Zentrieren Sie die Karte bei Bedarf auf die aktuelle Position mit der rot-umrandeten **GPS** Ziel-Taste in der unteren rechten Ecke des Bildschirms. 
+   ![Mergin Maps mobile app Record button](./merginmaps-mobile-location-zoom.jpg "Mergin Maps mobile app Record button")
+   
+3. Um ein neues Objekt hinzuzufügen, drücken Sie **+ Hinzufügen**.
+
+   Die Position des Objekts kann durch Zoomen und Ziehen der Hintergrundkarte auf die gewünschte Position oder durch Drücken der **GPS** Ziel-Taste definiert werden
+    
+   5.	Tippen auf **Aufnehmen** erfasst die gewählte Position.
+   ![Capturing point in Mergin Maps mobile app](./merginmaps-mobile-default-point-position.jpg "Capturing point in Mergin Maps mobile app")
+
+4. Nach der Aufnahme öffnet sich ein Erfassungsformular. 
+
+   Geben Sie dort das *Datum* und gegebenenfalls *Notizen* für das neue Objekt ein.  
+   
+   Tippen Sie **Bild aufnehmen**, um ein Foto anzuhängen.
+   ![Attributes form (left) and taking photo (right)](./merginmaps-mobile-entering-attributes.jpg "Attributes form (left) and taking photo (right)")
+
+5. **Speichern** Sie, wenn Sie mit den Eingaben zufrieden sind:
+   ![Save feature with filled attributes form](./merginmaps-mobile-save-feature.jpg "Save feature with filled attributes form")
+
+6. Das Objekt, das Sie gerade erfasst haben, sollte jetzt auf der Karte sichtbar sein.
+   
+   Tippen Sie auf das Objekt, um seine Details anzuzeigen. Wenn Sie diese Details ändern möchten, z. B. neue Notizen hinzufügen oder ein neues Foto aufnehmen möchten, tippen Sie auf **Bearbeiten**.
+
+   Tap on the feature to see its details. If you want to change these details, such as rewrite the notes or take a new photo, tap the **Edit** button.
+   
+   ![Surveyed feature visible on the map](./merginmaps-mobile-new-feature-on-map.jpg "Surveyed feature visible on the map")
+
+
+## Zusammenfassung
+In diesem Tutorial haben Sie gelernt, wie Sie in der <MobileAppName /> einfach und schnell mit der Erfassung von Felddaten beginnen können.
+
+Sie fragen sich vielleicht, wie Sie Linien- und Polygon-Features vermessen, andere Hintergrundkarten verwenden oder die Formulare definieren können. Diese Dinge sind alle möglich <MainPlatformNameLink />! 
